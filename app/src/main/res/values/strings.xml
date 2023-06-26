@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Motivation</string>
+    <string name="ola_tenha_um_timo_dia">Hello! Have a great day!!</string>
+    <string name="motivation_motivation">Motivation Motivation</string>
+    <string name="nova_frase">New phrase</string>
+    <string name="your_name">Your name</string>
+    <string name="save">Save</string>
+    <string name="let_s_begin">Lets begin</string>
+
+    <string name="validation_mandatory_name">Write your name</string>
+
 </resources>
